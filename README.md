@@ -19,11 +19,3 @@ A simple Python script that scrapes team performance stats from FBref.com — in
 ```bash
 pip install requests beautifulsoup4 lxml
 python scraper.py
-
-📌 Use Cases
-
-    Exploratory data analysis in football/sports analytics
-
-    Data visualization
-
-    Practice project for learning web scraping
